@@ -1,3 +1,5 @@
+### Environment
+The Ruby environment that the workers run in on IronWorker is as follows:
 <table>
   <tbody>
     <tr><td>Ruby</td><td>ruby 1.9.2p290 (2011-07-09 revision 32553) [x86_64-linux]</td></tr>
