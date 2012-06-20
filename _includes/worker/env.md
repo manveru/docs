@@ -2,17 +2,17 @@
 The Ruby environment that the workers run in on IronWorker is as follows:
 <table>
   <tbody>
-    <tr><td>Ruby</td><td>ruby 1.9.2p290 (2011-07-09 revision 32553) [x86_64-linux]</td></tr>
+    <tr><td>Ruby</td><td>ruby 1.9.3p0 (2011-10-30 revision 33570) [x86_64-linux]</td></tr>
     <tr><td colspan='2'>Installed Gems</td></tr>
     <tr><td>Ascii85</td><td>1.0.1</td></tr>
-    <tr><td>actionmailer</td><td>3.1.4</td></tr>
-    <tr><td>actionpack</td><td>3.1.4</td></tr>
-    <tr><td>activemodel</td><td>3.1.4</td></tr>
-    <tr><td>activerecord</td><td>3.1.4</td></tr>
-    <tr><td>activeresource</td><td>3.1.4</td></tr>
-    <tr><td>activesupport</td><td>3.1.4</td></tr>
-    <tr><td>addressable</td><td>2.2.7</td></tr>
-    <tr><td>akami</td><td>1.0.0</td></tr>
+    <tr><td>actionmailer</td><td>3.1.5</td></tr>
+    <tr><td>actionpack</td><td>3.1.5</td></tr>
+    <tr><td>activemodel</td><td>3.1.5</td></tr>
+    <tr><td>activerecord</td><td>3.1.5</td></tr>
+    <tr><td>activeresource</td><td>3.1.5</td></tr>
+    <tr><td>activesupport</td><td>3.1.5</td></tr>
+    <tr><td>addressable</td><td>2.2.8</td></tr>
+    <tr><td>akami</td><td>1.1.0</td></tr>
     <tr><td>appoxy_api</td><td>0.0.12</td></tr>
     <tr><td>appoxy_rails</td><td>0.0.34</td></tr>
     <tr><td>arel</td><td>2.2.3</td></tr>
@@ -20,10 +20,10 @@ The Ruby environment that the workers run in on IronWorker is as follows:
     <tr><td>aws-ses</td><td>0.4.4</td></tr>
     <tr><td>bcrypt-ruby</td><td>3.0.1</td></tr>
     <tr><td>bitly</td><td>0.7.0</td></tr>
-    <tr><td>bson</td><td>1.6.2</td></tr>
-    <tr><td>bson_ext</td><td>1.6.2</td></tr>
+    <tr><td>bson</td><td>1.6.4</td></tr>
+    <tr><td>bson_ext</td><td>1.6.4</td></tr>
     <tr><td>builder</td><td>3.0.0</td></tr>
-    <tr><td>bundler</td><td>1.1.3</td></tr>
+    <tr><td>bundler</td><td>1.1.4</td></tr>
     <tr><td>cancan</td><td>1.6.7</td></tr>
     <tr><td>carrierwave</td><td>0.5.8</td></tr>
     <tr><td>cocaine</td><td>0.2.1</td></tr>
@@ -31,25 +31,25 @@ The Ruby environment that the workers run in on IronWorker is as follows:
     <tr><td>cookiejar</td><td>0.3.0</td></tr>
     <tr><td>crack</td><td>0.3.1</td></tr>
     <tr><td>curb</td><td>0.8.0</td></tr>
-    <tr><td>dalli</td><td>2.0.3</td></tr>
-    <tr><td>devise</td><td>2.0.4</td></tr>
+    <tr><td>dalli</td><td>2.0.5</td></tr>
+    <tr><td>devise</td><td>2.1.0</td></tr>
     <tr><td>domain_name</td><td>0.5.3</td></tr>
     <tr><td>em-http-request</td><td>1.0.2</td></tr>
     <tr><td>em-socksify</td><td>0.2.0</td></tr>
-    <tr><td>embedly</td><td>1.5.2</td></tr>
+    <tr><td>embedly</td><td>1.5.6</td></tr>
     <tr><td>erector</td><td>0.8.3</td></tr>
     <tr><td>erubis</td><td>2.7.0</td></tr>
-    <tr><td>escape</td><td>0.0.4</td></tr>
     <tr><td>eventmachine</td><td>1.0.0.beta.4</td></tr>
     <tr><td>excon</td><td>0.13.4</td></tr>
-    <tr><td>faraday</td><td>0.8.0</td></tr>
-    <tr><td>flickraw</td><td>0.9.5</td></tr>
+    <tr><td>faraday</td><td>0.8.1</td></tr>
+    <tr><td>ffi</td><td>1.0.11</td></tr>
+    <tr><td>flickraw</td><td>0.9.6</td></tr>
     <tr><td>fog</td><td>1.3.1</td></tr>
-    <tr><td>formatador</td><td>0.2.1</td></tr>
+    <tr><td>formatador</td><td>0.2.3</td></tr>
     <tr><td>geokit</td><td>1.6.5</td></tr>
     <tr><td>geonames</td><td>0.2.2</td></tr>
     <tr><td>gmail_sender</td><td>1.1.1</td></tr>
-    <tr><td>gyoku</td><td>0.4.4</td></tr>
+    <tr><td>gyoku</td><td>0.4.5</td></tr>
     <tr><td>handsoap</td><td>1.1.8</td></tr>
     <tr><td>hashie</td><td>1.2.0</td></tr>
     <tr><td>hike</td><td>1.2.1</td></tr>
@@ -59,40 +59,40 @@ The Ruby environment that the workers run in on IronWorker is as follows:
     <tr><td>http_connection</td><td>1.4.1</td></tr>
     <tr><td>http_parser.rb</td><td>0.5.3</td></tr>
     <tr><td>httparty</td><td>0.8.3</td></tr>
-    <tr><td>httpi</td><td>0.9.6</td></tr>
+    <tr><td>httpi</td><td>1.0.0</td></tr>
     <tr><td>i18n</td><td>0.6.0</td></tr>
-    <tr><td>json</td><td>1.6.6</td></tr>
+    <tr><td>json</td><td>1.7.3</td></tr>
     <tr><td>linkscape</td><td>0.3.2</td></tr>
     <tr><td>logglier</td><td>0.2.7</td></tr>
     <tr><td>mail</td><td>2.3.3</td></tr>
-    <tr><td>mechanize</td><td>2.4</td></tr>
+    <tr><td>mechanize</td><td>2.5.1</td></tr>
     <tr><td>memcache-client</td><td>1.8.5</td></tr>
     <tr><td>mime-types</td><td>1.18</td></tr>
     <tr><td>mini_fb</td><td>1.1.7</td></tr>
     <tr><td>moneta</td><td>0.6.0</td></tr>
-    <tr><td>mongo</td><td>1.6.2</td></tr>
+    <tr><td>mongo</td><td>1.6.4</td></tr>
     <tr><td>mongo_mapper</td><td>0.11.1</td></tr>
     <tr><td>mongoid</td><td>2.2.5</td></tr>
     <tr><td>mongoid_i18n</td><td>0.5.1</td></tr>
-    <tr><td>multi_json</td><td>1.3.2</td></tr>
-    <tr><td>multi_xml</td><td>0.4.4</td></tr>
+    <tr><td>multi_json</td><td>1.2.0</td></tr>
+    <tr><td>multi_xml</td><td>0.5.1</td></tr>
     <tr><td>multipart-post</td><td>1.1.5</td></tr>
     <tr><td>mysql</td><td>2.8.1</td></tr>
     <tr><td>mysql2</td><td>0.3.11</td></tr>
-    <tr><td>net-http-digest_auth</td><td>1.2</td></tr>
-    <tr><td>net-http-persistent</td><td>2.6</td></tr>
+    <tr><td>net-http-digest_auth</td><td>1.2.1</td></tr>
+    <tr><td>net-http-persistent</td><td>2.7</td></tr>
     <tr><td>net-scp</td><td>1.0.4</td></tr>
     <tr><td>net-sftp</td><td>2.0.5</td></tr>
-    <tr><td>net-ssh</td><td>2.3.0</td></tr>
-    <tr><td>nokogiri</td><td>1.5.2</td></tr>
+    <tr><td>net-ssh</td><td>2.5.2</td></tr>
+    <tr><td>nokogiri</td><td>1.5.4</td></tr>
     <tr><td>nori</td><td>1.1.0</td></tr>
     <tr><td>ntlm-http</td><td>0.1.1</td></tr>
     <tr><td>oauth</td><td>0.4.6</td></tr>
     <tr><td>oauth2</td><td>0.5.2</td></tr>
     <tr><td>omniauth</td><td>1.1.0</td></tr>
     <tr><td>orm_adapter</td><td>0.0.7</td></tr>
-    <tr><td>paperclip</td><td>3.0.2</td></tr>
-    <tr><td>pdf-reader</td><td>1.1.0</td></tr>
+    <tr><td>paperclip</td><td>3.0.4</td></tr>
+    <tr><td>pdf-reader</td><td>1.1.1</td></tr>
     <tr><td>pg</td><td>0.13.2</td></tr>
     <tr><td>plucky</td><td>0.4.4</td></tr>
     <tr><td>polyglot</td><td>0.3.3</td></tr>
@@ -106,11 +106,11 @@ The Ruby environment that the workers run in on IronWorker is as follows:
     <tr><td>rack-mount</td><td>0.8.3</td></tr>
     <tr><td>rack-ssl</td><td>1.3.2</td></tr>
     <tr><td>rack-test</td><td>0.6.1</td></tr>
-    <tr><td>rails</td><td>3.1.4</td></tr>
-    <tr><td>railties</td><td>3.1.4</td></tr>
+    <tr><td>rails</td><td>3.1.5</td></tr>
+    <tr><td>railties</td><td>3.1.5</td></tr>
     <tr><td>rake</td><td>0.9.2.2</td></tr>
     <tr><td>rdoc</td><td>3.12</td></tr>
-    <tr><td>redis</td><td>2.2.2</td></tr>
+    <tr><td>redis</td><td>3.0.1</td></tr>
     <tr><td>rest-client</td><td>1.6.7</td></tr>
     <tr><td>rmagick</td><td>2.13.1</td></tr>
     <tr><td>rmail</td><td>1.0.0</td></tr>
@@ -118,32 +118,32 @@ The Ruby environment that the workers run in on IronWorker is as follows:
     <tr><td>ruby-hmac</td><td>0.4.0</td></tr>
     <tr><td>ruby-openid</td><td>2.1.8</td></tr>
     <tr><td>ruby-rc4</td><td>0.1.5</td></tr>
-    <tr><td>savon</td><td>0.9.9</td></tr>
-    <tr><td>sequel</td><td>3.34.1</td></tr>
+    <tr><td>savon</td><td>1.0.0</td></tr>
+    <tr><td>sequel</td><td>3.36.1</td></tr>
     <tr><td>simple_deployer</td><td>0.1.3</td></tr>
-    <tr><td>simple_oauth</td><td>0.1.7</td></tr>
+    <tr><td>simple_oauth</td><td>0.1.8</td></tr>
     <tr><td>simple_record</td><td>2.2.0</td></tr>
     <tr><td>simple_worker</td><td>1.0.14</td></tr>
-    <tr><td>sprockets</td><td>2.0.3</td></tr>
-    <tr><td>stringex</td><td>1.3.2</td></tr>
-    <tr><td>sunspot</td><td>1.3.1</td></tr>
-    <tr><td>sunspot_rails</td><td>1.3.1</td></tr>
-    <tr><td>test-unit</td><td>2.4.8</td></tr>
+    <tr><td>sprockets</td><td>2.0.4</td></tr>
+    <tr><td>stringex</td><td>1.4.0</td></tr>
+    <tr><td>sunspot</td><td>1.3.3</td></tr>
+    <tr><td>sunspot_rails</td><td>1.3.3</td></tr>
+    <tr><td>test-unit</td><td>2.5.0</td></tr>
     <tr><td>thor</td><td>0.14.6</td></tr>
     <tr><td>tilt</td><td>1.3.3</td></tr>
     <tr><td>toadhopper</td><td>2.0</td></tr>
     <tr><td>treetop</td><td>1.4.10</td></tr>
     <tr><td>ttfunk</td><td>1.0.3</td></tr>
     <tr><td>twilio</td><td>3.1.0</td></tr>
-    <tr><td>twitter</td><td>2.2.3</td></tr>
+    <tr><td>twitter</td><td>2.2.0</td></tr>
     <tr><td>twitter4r</td><td>0.7.0</td></tr>
-    <tr><td>typhoeus</td><td>0.3.3</td></tr>
+    <tr><td>typhoeus</td><td>0.4.2</td></tr>
     <tr><td>tzinfo</td><td>0.3.33</td></tr>
     <tr><td>unf</td><td>0.0.5</td></tr>
-    <tr><td>unf_ext</td><td>0.0.4</td></tr>
+    <tr><td>unf_ext</td><td>0.0.5</td></tr>
     <tr><td>uuidtools</td><td>2.1.2</td></tr>
     <tr><td>warden</td><td>1.1.1</td></tr>
-    <tr><td>wasabi</td><td>2.1.0</td></tr>
+    <tr><td>wasabi</td><td>2.4.0</td></tr>
     <tr><td>webrobots</td><td>0.0.13</td></tr>
     <tr><td>xml-simple</td><td>1.1.1</td></tr>
     <tr><td>yajl-ruby</td><td>1.1.0</td></tr>
